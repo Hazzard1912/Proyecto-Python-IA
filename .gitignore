@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+results/*
+dist
+build
+.vscode
+conversiones/*
+*.zip
+*.spec
+
